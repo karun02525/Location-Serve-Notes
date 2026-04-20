@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "322351988475",
+    "project_id": "geonote-e5fe8",
+    "storage_bucket": "geonote-e5fe8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322351988475:android:7c1ba50e6a03e4d5ebfa5e",
+        "android_client_info": {
+          "package_name": "in.antef.geonote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVx4WhjGXvT7zP-lVhkbQibJzkJwGZ7Fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

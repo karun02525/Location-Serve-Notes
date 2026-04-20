@@ -1,0 +1,30 @@
+package `in`.antef.geonote.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+
+
+ val PRIMARY = Color(0xFF344054)
+ val SECONDARY = Color(0xFF283144)
+
+val TERTIARY = Color(0xFFE09134)
+val TAB_BG_COLOR = Color(0xFFFFF9F3)
+val TEXT_COLOR = Color(0xFF757575)
+val CARD_BORDER_COLOR = Color(0xFFE9EAEC)
+val SEARCH_PLACEHOLDER_COLOR = Color(0xFF787878)
+val SEARCH_BORDER_COLOR = Color(0xFFE9EAEC)
+
+
+val BORDER_COLOR = Color(0xFFE9EAEC)
+val TEXT_FIELD_COLOR = Color(0xFFF5F5F5)
+val TEXT_DARK_COLOR = Color(0xFF787878)
+val DELETE_COLOR = Color(0xFFF04438)
+
+
+val CARD_BG_COLOR = Color(0xFFE9EAEC)
+val NO_DATA_TEXT_COLOR = Color(0xFF565656)
+val TEXT_FIELD_BG_COLOR = Color(0xFFF5F5F5)
+val BG_COLOR = Color(0xFFFCFDFD)
+val BG_WHITE_PHOTO_COLOR = Color(0xFFF2F4F7)
+val BG_RED_CROSS_COLOR = Color(0xFFFECDCA)
+val BG_GREEN_CROSS_COLOR = Color(0xFFA6F4C5)
